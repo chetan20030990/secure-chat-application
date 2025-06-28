@@ -710,7 +710,7 @@ class AdvancedCryptoManager:
 ### 🤝 Connect for Technical Discussion
 
 **Chetan Pavan Sai Nannapaneni**  
-*Cybersecurity & Cryptographic Systems Specialist*
+*Cybersecurity & Cryptographic Systems*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetannannapaneni/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nannapaneni.che@northeastern.edu)
